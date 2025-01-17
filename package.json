@@ -1,0 +1,14 @@
+{
+  "name": "json-comparator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compare": "node compareJson.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
